@@ -1,0 +1,120 @@
+body{
+    background-color:seashell;
+}
+
+h1{
+    color: black;
+    text-align: left; 
+}
+
+p{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#style1{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:green;
+}
+
+#style2{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:darkorange;
+}
+
+#style3{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:lightskyblue;
+}
+
+#style4{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:black;
+}
+
+#style5{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:blanchedalmond;
+}
+
+#style6{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:rgb(19, 17, 109);
+}
+
+#style7{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:rgb(63, 11, 11);
+}
+
+#style8{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:rgb(0, 0, 0);
+}
+
+#style9{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:rgb(41, 155, 140);
+}
+
+#style10{
+    text-align: left;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: dashed;
+    color:rgb(89, 158, 32);
+}
+
+q:hover {
+    color:blueviolet;
+}
+
+#box {
+    color:burlywood;
+    height: 150px;
+    width: 150px;
+}
+
+.center {
+    text-align: center;
+    color: chartreuse;
+    font-size: medium;
+}
+
+p > q {
+    text-align: justify;
+    color:salmon;
+}
+
+div ul {
+    text-align: end;
+    color:rgb(41, 155, 140);
+}
+
